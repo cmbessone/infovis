@@ -1,0 +1,5 @@
+brushing-and-linking
+Choropleth Maps
+node-link diagram
+"sunburst" layout
+Enclosure diagrams
